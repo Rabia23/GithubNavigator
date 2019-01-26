@@ -1,0 +1,10 @@
+# .gitignore for github navigator.
+
+### Python artifacts
+*.pyc
+
+### OS X artifacts
+*.DS_Store
+
+### Editor and IDE artifacts
+.idea/
