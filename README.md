@@ -7,7 +7,7 @@ Make sure you have Python installed in your system :)
 
 **Step 1:** Install, Create and Activate Virtual Environment
 
-- Install virtual env using command:
+- Install virtual env:
 ```
 pip install virtualenv
 ```
@@ -17,7 +17,7 @@ Note: If you already have virtual env in your system then skip this step.
 git clone https://github.com/Rabia23/GithubNavigator.git
 ```
 - Go to project folder e.g cd GithubNavigator
-- Create the virtual env by following command:
+- Create the virtual env:
 ```
 virtualenv <name of the environment> e.g virtualenv githubnavigator_venv
 ```
